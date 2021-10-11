@@ -9,6 +9,11 @@ nav li {
     padding: 1% 5%;
 }
 
+nav li a {
+    color: aqua;
+    text-decoration: none;
+}
+
 nav ul {
     margin: 0%;
     padding: 0%;
@@ -39,6 +44,12 @@ article p {
     flex: 25%;
     max-width: 25%;
     padding: 0 4px;
+}
+
+.bilder img {
+    margin-top: 8px;
+    vertical-align: middle;
+    width:100%;
 }
 
 #gridski {
